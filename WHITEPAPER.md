@@ -111,7 +111,7 @@ Lola token is available on multiple decentralized exchanges including Ston.fi an
 - **Open Source:** Code available on GitHub
 
 ### GitHub Repository
-https://github.com/olimjonmirzaraim-source/token
+https://github.com/LolaOfficial/token
 
 ### Technical Support
 - Contract address: EQD9Z65e2dhDtmIlH0zLLCivPuFi9FqK7vhFAVSSgQI-xLg0

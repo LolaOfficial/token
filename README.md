@@ -37,7 +37,7 @@ Lola token is available on multiple decentralized exchanges including Ston.fi an
 - **JettonWallet:** Token wallet contract
 
 ### GitHub Repository
-https://github.com/olimjonmirzaraim-source/token
+https://github.com/LolaOfficial/token
 
 ## Token Features
 
