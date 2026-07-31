@@ -71,17 +71,7 @@ Lola token utilizes two main smart contracts:
 
 ### Current Liquidity Pools
 
-**Ston.fi:**
-- Pair: GRAM-LOLA
-- Liquidity: ~$700
-- Trading Fee: 0.3%
-- Pool Type: Constant Product Market Maker
-
-**DeDust.io:**
-- Pair: GRAM-LOLA
-- Liquidity: ~$28
-- Trading Fee: 0.4%
-- Pool Type: CPMM v2
+Lola token is available on multiple decentralized exchanges including Ston.fi and DeDust.io. The token can be traded against GRAM (TON) on these platforms. Liquidity is provided by community members and token holders, enabling smooth trading operations.
 
 ### Trading Volume
 - Current trading volume is growing as the token gains adoption

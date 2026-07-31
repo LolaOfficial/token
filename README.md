@@ -24,16 +24,7 @@
 
 ## Liquidity Pools
 
-### Ston.fi
-- **Pair:** GRAM-LOLA
-- **Liquidity:** ~$700
-- **Trading Fee:** 0.3%
-
-### DeDust.io
-- **Pair:** GRAM-LOLA
-- **Pool Type:** CPMM v2
-- **Liquidity:** ~$28
-- **Trading Fee:** 0.4%
+Lola token is available on multiple decentralized exchanges including Ston.fi and DeDust.io. Liquidity is provided by the community and token holders.
 
 ## Technical Details
 
